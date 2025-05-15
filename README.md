@@ -42,6 +42,18 @@ python predict.py --cfg_file tools/cfgs/kitti_models/MoRAL.yaml --ckpt your_trai
 
 If you find this work helpful for your research, please consider citing the following entry:
 
+```
+@misc{peng2025moralmotionawaremultiframe4d,
+      title={MoRAL: Motion-aware Multi-Frame 4D Radar and LiDAR Fusion for Robust 3D Object Detection}, 
+      author={Xiangyuan Peng and Yu Wang and Miao Tang and Bierzynski Kay and Lorenzo Servadei and Robert Wille},
+      year={2025},
+      eprint={2505.09422},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2505.09422}, 
+}
+```
+
 ## Acknowledgement
 
 Many thanks to these excellent works and repos:
